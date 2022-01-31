@@ -1,6 +1,8 @@
 # qb-clawmachine
 Claw Machine with Prizes (QBCore) - Uses <a href = 'https://github.com/BerkieBb/qb-target'>qb-target</a>
 
+You can add as many prizes as you want in the config file
+
 ```
 	-- Funkopop Toys
 	['funkopop_harrypotter']		= {['name'] = 'funkopop_harrypotter',	['label'] = 'Harry Potter Funkopop',		['weight'] = 0,		['type'] = 'item',		['image'] = 'funkopop_harrypotter.png',		['unique'] = false,		['useable'] = false,		['shouldClose'] = false,	['combinable'] = nil,	['description'] = 'Harry Potter Funkopop Toy'},
