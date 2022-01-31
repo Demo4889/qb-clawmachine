@@ -1,5 +1,5 @@
 # qb-clawmachine
-Claw Machine with Prizes (QBCore)
+Claw Machine with Prizes (QBCore) - Uses <a href = 'https://github.com/BerkieBb/qb-target'>qb-target</a>
 
 ```
 	-- Funkopop Toys
